@@ -4,6 +4,7 @@ Instead of traditionally LP'ing funds into a liquidity pool, on **zkLite Exchang
 
 Anyone can run a market maker bot on zkSync Lite. The market maker bot fills the market and limit orders. Technical instructions on how to run the bot can be found in the [README in the market-maker repository](https://github.com/zklite-exchange/market-maker) on GitHub. The code can be found on [this specific GitHub page](https://github.com/zklite-exchange/market-maker).\
 \
-Please replace the corresponding API endpoints of ZigZag with **zkLite exchange's** API endpoint: \
-https://api.zklite.io\
-wss://api.zklite.io
+Please replace the corresponding API endpoints of ZigZag with **zkLite exchange's** API endpoint:&#x20;
+
+* https://api.zklite.io
+* wss://api.zklite.io
