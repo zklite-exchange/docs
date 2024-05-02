@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Referral Program](referral-program.md)
 * [Links](links.md)
 
 ## zkSync Lite
